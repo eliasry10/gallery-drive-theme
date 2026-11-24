@@ -1,0 +1,5 @@
+{
+  "name": "gallery-drive-studio",
+  "owner": { "name": "Gallery Drive Studio" },
+  "plugins": [{ "name": "gallery-drive-theme", "source": "./" }]
+}
